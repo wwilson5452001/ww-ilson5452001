@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## Welcome to Wayne Hsiao's GitHub
 
-[![Linkedin Badge](https://img.shields.io/badge/-WayneHsiao-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/wwilson5452001/)](https://www.linkedin.com/in/wwilson5452001/)
+[![Linkedin Badge](https://img.shields.io/badge/-WayneHsiao-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/wenchihsiao/)](https://www.linkedin.com/in/wenchihsiao/)
 [![GitHub followers](https://img.shields.io/github/followers/wwilson5452001?label=Follow&style=social)](https://github.com/wwilson5452001/?tab=follow)
 [![Gmail Badge](https://img.shields.io/badge/-wwilson5452001?style=social&logo=Gmail&logoColor=red&link=mailto:wwilson5452001@gmail.com)](mailto:wwilson5452001@gmail.com)
 ![](https://komarev.com/ghpvc/?username=wwilson5452001)
